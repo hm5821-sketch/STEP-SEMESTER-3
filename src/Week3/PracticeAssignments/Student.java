@@ -28,5 +28,6 @@ public class Student {
 
         // Accessing static method via the class name
         Student.printCollegeInfo();
+
     }
 }
